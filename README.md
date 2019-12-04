@@ -1,6 +1,6 @@
 # ✨ YAutoHotkey-VsCode
 
-🤝 Autohotkey support for vscode
+🤝 AutoHotkey support for VsCode
 
 ## 🍱 Included
 
