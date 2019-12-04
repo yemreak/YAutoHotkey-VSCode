@@ -1,0 +1,58 @@
+{
+	"name": "yautohotkey",
+	"displayName": "✨ YAutoHotkey",
+	"description": "Detailed AutoHotkey language support and syntax highlighter",
+	"version": "1.0.0",
+	"publisher": "yedhrab",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"icon": "res/yahk.png",
+	"license": "MIT",
+	"categories": [
+		"Programming Languages",
+		"Snippets"
+	],
+	"keywords": [
+		"autohotkey",
+		"autohotkey+",
+		"autohotkey plus",
+		"ahk",
+		"ahk+",
+		"yahk",
+		"yautohotkey"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yedhrab/YAutoHotkey-VsCode"
+	},
+	"contributes": {
+		"languages": [
+			{
+				"id": "ahk",
+				"aliases": [
+					"AutoHotkey",
+					"autohotkey",
+					"ahk"
+				],
+				"extensions": [
+					".ahk"
+				],
+				"configuration": "./ahk.configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "ahk",
+				"scopeName": "source.ahk",
+				"path": "./syntaxes/ahk.tmLanguage"
+			}
+		],
+		"snippets": [
+			{
+				"language": "ahk",
+				"path": "./snippets/ahk.json"
+			}
+		]
+	}
+}
