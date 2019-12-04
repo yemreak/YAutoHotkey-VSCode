@@ -1,5 +1,13 @@
 {
   ".source.ahk": {
+    "HotString": {
+      "prefix": "::",
+      "body": [
+        ":::$1::$0"
+      ],
+      "description": "HotStrings help u to capture inputs"
+    },
+    // Old ones
     "#AllowSameLineComments": {
       "prefix": "#AllowSameLineComments",
       "body": "#AllowSameLineComments"
