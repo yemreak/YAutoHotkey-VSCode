@@ -15,6 +15,7 @@
 
 ![](res/preview.png)
 ![](res/constants.png)
+![](res/constant2.png)
 
 ## 💖 Support & Contact
 
