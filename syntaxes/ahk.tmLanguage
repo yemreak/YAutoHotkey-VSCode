@@ -205,7 +205,7 @@
 			</dict>
 			<dict>
 				<key>match</key>
-				<string>(?<!\w)\b[A-Z]+[\_]*[A-Z]*\b</string>
+				<string>\b[A-Z_]+\b</string>
 				<key>name</key>
 				<string>constant.other.ahk</string>
 			</dict>
