@@ -237,9 +237,15 @@
 			</dict>
 			<dict>
 				<key>match</key>
-				<string>:=|\.=|=|::</string>
+				<string>\:\=|\+\=|\-\=|\*\=|\/\=|\/\/\=|\.\=|\|\=|\&\=|\^\=|\>\>\=|\<\<\=</string>
 				<key>name</key>
 				<string>keyword.operator.assignment.ahk</string>
+			</dict>
+			<dict>
+				<key>match</key>
+				<string>=|==|<>|!|=:</string>
+				<key>name</key>
+				<string>keyword.operator.equal.ahk</string>
 			</dict>
 			<dict>
 				<key>match</key>
