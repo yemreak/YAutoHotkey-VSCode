@@ -1,18 +1,21 @@
 # ✨ YAutoHotkey-VsCode
 
-🤝 AutoHotkey support for VsCode
+🤝 Detailed AutoHotkey support for VsCode
 
-## 🍱 Included
+> 🌟 Best of known ahk extensions
 
-- ✨ Syntax highlight
+## 🍱 Include
+
+- ✨ **More** syntax highlight
 - 💫 Codesnippets
 - 💬 Comments
 
 ## 🚀 What's More
 
-* Supported theme is [🖤 DarkCode Theme](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
-* These screenshots are taken from [🌱YHotkeys](https://github.com/yedhrab/YHotkeys)
+- Supported theme is [🖤 DarkCode Theme](https://marketplace.visualstudio.com/items?itemName=yedhrab.darkcode-theme-adopted-python-and-markdown)
+- These screenshots are taken from [🌱 YHotkeys](https://github.com/yedhrab/YHotkeys) source code
 
+![](res/assignment.png)
 ![](res/preview.png)
 ![](res/constants.png)
 ![](res/constant2.png)
