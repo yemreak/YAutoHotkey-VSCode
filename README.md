@@ -2,7 +2,7 @@
 
 🤝 Detailed AutoHotkey support for VsCode
 
-> 🌟 Best of known ahk extensions
+> 📢 This extension is deprecated, please use [AutoHotkey Plus](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
 
 ## 🍱 Include
 
