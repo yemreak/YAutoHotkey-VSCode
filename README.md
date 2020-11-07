@@ -2,7 +2,7 @@
 
 🤝 Detailed AutoHotkey support for VsCode
 
-> 📢 This extension is deprecated, please use [AutoHotkey Plus](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
+> 📢 This extension is deprecated, please use [AutoHotkey Plus Plus](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus)
 
 ## 🍱 Include
 
